@@ -34,6 +34,8 @@ Actually we, have scrapped the data from crypto.com and processed it. But for re
  # STEP-BY-STEP GUIDE :
  ## Step 1  Scraping the data :
  Refer the crypto_scrapping project which I have already provided. You can directly import that in IDE like PyCharm.
+ If You want the project then refer this Drive link : -
+ https://drive.google.com/drive/folders/1oW3JINaB-VvBjfvixobwlyDzHAzetf5S?usp=share_link
  ## Step 2 Cleaning the Data :
  For that refer the data_cleaning.ipnyb file
  ## Step 3 Setup Kafka installation on AWS EC2:
